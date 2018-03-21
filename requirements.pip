@@ -1,0 +1,9 @@
+Babel==2.5.3
+Django==2.0.3
+django-geoposition==0.3.0
+django-phonenumber-field==2.0.0
+phonenumberslite==8.9.2
+Pillow==5.0.0
+pytz==2018.3
+py_moneyed==0.7.0
+django_money==0.12.3
